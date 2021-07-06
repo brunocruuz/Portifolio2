@@ -1,6 +1,22 @@
 p {
   font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+#area-cabecalho{
+  text-align: center;
+  background: linear-gradient(45deg, rgb(0, 0, 0), rgb(24, 188, 156), rgb(44, 62, 80)) ;
+}
+ .foto1{
+   width: 250px;
+   
+    
+ } 
+#area-cabecalho{
+   
+   
+  width: 80%;
+  margin: 0px auto;
+  height: 400px;
+}
 
 .foto-perfil {
   height: 100%;
@@ -52,4 +68,13 @@ p {
 
 .itemMenu {
   color: white;
+}
+
+/*
+****************links ***************** 
+*/
+
+.navbar-nav a:hover{
+  color: red;
+  background: rgb(26, 26, 80);
 }
